@@ -1,0 +1,21 @@
+img{
+    float: right;
+}
+
+
+#menu{
+    display: flex;
+}
+
+button
+{
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 2px;
+    padding: 4px 10px
+}
+
+button.disabled{
+    border: 1px solid silver;
+    color: silver;
+}
